@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloDSL", "src\HelloDSL\He
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a05_proj", "src\a05_proj\a05_proj.vcxproj", "{E02A2E3A-415F-4769-AB5A-1B696758E93E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Practica2", "Practica2\Practica2.vcxproj", "{5CF062DC-CD0F-4135-9909-A16393DB40CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{E02A2E3A-415F-4769-AB5A-1B696758E93E}.Release|x64.Build.0 = Release|x64
 		{E02A2E3A-415F-4769-AB5A-1B696758E93E}.Release|x86.ActiveCfg = Release|Win32
 		{E02A2E3A-415F-4769-AB5A-1B696758E93E}.Release|x86.Build.0 = Release|Win32
+		{5CF062DC-CD0F-4135-9909-A16393DB40CD}.Debug|x64.ActiveCfg = Debug|x64
+		{5CF062DC-CD0F-4135-9909-A16393DB40CD}.Debug|x64.Build.0 = Debug|x64
+		{5CF062DC-CD0F-4135-9909-A16393DB40CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{5CF062DC-CD0F-4135-9909-A16393DB40CD}.Debug|x86.Build.0 = Debug|Win32
+		{5CF062DC-CD0F-4135-9909-A16393DB40CD}.Release|x64.ActiveCfg = Release|x64
+		{5CF062DC-CD0F-4135-9909-A16393DB40CD}.Release|x64.Build.0 = Release|x64
+		{5CF062DC-CD0F-4135-9909-A16393DB40CD}.Release|x86.ActiveCfg = Release|Win32
+		{5CF062DC-CD0F-4135-9909-A16393DB40CD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
